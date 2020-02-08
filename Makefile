@@ -13,4 +13,4 @@ fetch:
 commit:
 	git add zone.ee Makefile
 	git commit --allow-empty -m "update at $(shell date)"
-	git push -f -q https://$(TOKEN)@github.com/tanelpuhu/.ee.zone.git master
+	git push -f -q https://$(TOKEN)@github.com/tanelpuhu/ee.zone.git master
