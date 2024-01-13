@@ -4,6 +4,7 @@
 0000.ee
 00000.ee
 000000.ee
+0008.ee
 001.ee
 002.ee
 003.ee
@@ -2506,6 +2507,7 @@
 8877.ee
 8878.ee
 888.ee
+8880.ee
 8882.ee
 8883.ee
 8886.ee
@@ -2660,6 +2662,7 @@
 9586.ee
 959.ee
 96.ee
+960.ee
 961.ee
 962.ee
 963.ee
@@ -4763,6 +4766,7 @@ agalma.ee
 agamina.ee
 agapalun.ee
 agape.ee
+agapekirik.ee
 agapekohvik.ee
 agapics.ee
 agapuu.ee
@@ -12440,6 +12444,7 @@ atvbox.ee
 atvdoc.ee
 atvestonia.ee
 atviimistlus.ee
+atvkeskus.ee
 atvmatkad.ee
 atvmatkasellid.ee
 atvpood.ee
@@ -12912,6 +12917,7 @@ autoarena.ee
 autoarendus.ee
 autoarikas.ee
 autoarsenal.ee
+autoart.ee
 autoasi.ee
 autoaudio.ee
 autoaz.ee
@@ -14422,6 +14428,7 @@ b188.ee
 b1autokool.ee
 b2-impact.ee
 b2.ee
+b20.ee
 b210.ee
 b24.ee
 b2b-knaufinsulation.ee
@@ -14449,6 +14456,7 @@ b365uat.ee
 b3autorent.ee
 b3clan.ee
 b4.ee
+b40.ee
 b4b.ee
 b5.ee
 b50.ee
@@ -14460,11 +14468,13 @@ b66.ee
 b6studios.ee
 b7.ee
 b70.ee
+b73.ee
 b78.ee
 b8.ee
 b80.ee
 b88.ee
 b9.ee
+b90.ee
 b99.ee
 ba-machinery.ee
 ba.ee
@@ -15434,6 +15444,7 @@ barilla.ee
 bariot.ee
 barisol.ee
 barista.ee
+baristamobiil.ee
 baristina.ee
 baristo.ee
 bark.ee
@@ -24675,6 +24686,7 @@ convertr.ee
 conveycraft.ee
 conveyor.ee
 convictus.ee
+convictusreha.ee
 convikx.ee
 conviso.ee
 convit.ee
@@ -25144,6 +25156,7 @@ cr.ee
 cr14.ee
 cr3at1ve.ee
 cr8.ee
+cra.ee
 crab.ee
 crabit.ee
 crabsec.ee
@@ -33174,6 +33187,7 @@ egum.ee
 egumnaasium.ee
 egunshop.ee
 egv.ee
+egy.ee
 egym.ee
 egypt.ee
 egyptianmagic.ee
@@ -40959,6 +40973,7 @@ fcpuuma.ee
 fcrakvereunited.ee
 fcrmedia.ee
 fcs.ee
+fcsantos.ee
 fcsaue.ee
 fcsauelaagri.ee
 fcsillamae.ee
@@ -41326,6 +41341,7 @@ ferrybookings.ee
 ferrysan.ee
 ferryscan.ee
 ferrytickets.ee
+ferryto.ee
 fersen.ee
 fert-c.ee
 fertago.ee
@@ -61978,6 +61994,7 @@ kadriorustaadion.ee
 kadriorusuvemois.ee
 kadriorutennis.ee
 kadrisakala.ee
+kadrisams.ee
 kadritamme.ee
 kadritare.ee
 kadritonnisson.ee
@@ -65079,6 +65096,7 @@ keeptrade.ee
 keer.ee
 keerdpuu.ee
 keerdtrepp.ee
+keering.ee
 keerkoolitus.ee
 keermevedrud.ee
 keerub.ee
@@ -74408,6 +74426,7 @@ laealla.ee
 laecwador.ee
 laed.ee
 laed24.ee
+laeddesign.ee
 laeend.ee
 laeexpert.ee
 laegas.ee
@@ -74525,6 +74544,7 @@ laevaabi.ee
 laevaagent.ee
 laevad.ee
 laevad24.ee
+laevadepommitus.ee
 laevagraafik.ee
 laevajuhid.ee
 laevajuhiluba.ee
@@ -77666,6 +77686,7 @@ lifery.ee
 lifesgreat.ee
 lifeshine.ee
 lifeskills.ee
+lifesolutions.ee
 lifesource.ee
 lifespan.ee
 lifesparkle.ee
@@ -85216,6 +85237,7 @@ matri.ee
 matribrand.ee
 matrico.ee
 matriits.ee
+matriks.ee
 matrix.ee
 matrix42.ee
 matrixcel.ee
@@ -86506,6 +86528,7 @@ meiepulm.ee
 meiepulmad.ee
 meiepusa.ee
 meier.ee
+meieraadio.ee
 meieraha.ee
 meierei.ee
 meieri.ee
@@ -93949,6 +93972,7 @@ nadaline.ee
 nadbuh.ee
 nadiasuraya.ee
 nadine.ee
+nadmargrupp.ee
 nae.ee
 naeasy.ee
 nael.ee
@@ -105163,6 +105187,7 @@ pedab.ee
 pedagoog.ee
 pedak.ee
 pedanik.ee
+pedant.ee
 pedase.ee
 pedasehotell.ee
 pedaspaiglu.ee
@@ -117388,6 +117413,7 @@ rentis.ee
 rentist.ee
 rentista.ee
 rentit.ee
+rentitall.ee
 rentitwise.ee
 rentity.ee
 rentium.ee
@@ -132505,6 +132531,7 @@ suguhaigus.ee
 sugupuu.ee
 sugurakudoonor.ee
 suhe.ee
+suhe24.ee
 suhetetarkus.ee
 suhka.ee
 suhkrudepilatsioon.ee
@@ -134755,6 +134782,7 @@ taimselt.ee
 tainascatering.ee
 taip.ee
 taipamine.ee
+taipamiskeskus.ee
 taipan.ee
 taipoks.ee
 tairex.ee
@@ -135595,6 +135623,7 @@ tamsaluept.ee
 tamsalukalor.ee
 tamsalukool.ee
 tamsalumuuseum.ee
+tamsalusport.ee
 tamsalutantsulaager.ee
 tamsalutervisekeskus.ee
 tamsar.ee
@@ -135700,6 +135729,7 @@ tankon.ee
 tankpool24.ee
 tankreative.ee
 tankrisadventures.ee
+tankson.ee
 tankstat.ee
 tankstudio.ee
 tanktruck.ee
@@ -140934,6 +140964,7 @@ today.ee
 toddlergames.ee
 toddys.ee
 todes.ee
+todex.ee
 todi.ee
 todo.ee
 todocristal.ee
@@ -143365,6 +143396,7 @@ triinutints.ee
 triinutoidumaailm.ee
 triinutoomela.ee
 triinutordid.ee
+triinutraumann.ee
 triinuusen.ee
 triinwheel.ee
 triip.ee
@@ -145411,6 +145443,7 @@ ugandiresto.ee
 ugandispa.ee
 ugaraja.ee
 ugb.ee
+ugc.ee
 ugcc.ee
 ugears.ee
 ugg.ee
@@ -158394,6 +158427,7 @@ xn--lestus-sxa5c.ee
 xn--levaatus-55a.ee
 xn--lganuse-n2a.ee
 xn--lgavedu-5wa.ee
+xn--lhebminna-v2a.ee
 xn--lheri-ira0j.ee
 xn--lhiajalugu-q5a.ee
 xn--lhik-0ra.ee
@@ -159820,6 +159854,7 @@ xn--rinutikus-u2a.ee
 xn--riohutus-zza.ee
 xn--ripank-9ta.ee
 xn--ripark-9ta.ee
+xn--ripesa-9ta.ee
 xn--ripev-frad.ee
 xn--ripind-9ta.ee
 xn--ripinnad-55aa.ee
@@ -160369,6 +160404,7 @@ xn--theaolu-90aa.ee
 xn--theareen-0za.ee
 xn--thedjaprlid-l8ag.ee
 xn--theke-gra.ee
+xn--thelepanuvajadusblogi-51b.ee
 xn--themblifurnituur-vnb14aa.ee
 xn--themees-5wa.ee
 xn--themevilla-q5ad.ee
